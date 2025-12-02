@@ -203,6 +203,7 @@ class _AddReceiptPageState extends ConsumerState<AddReceiptPage> {
                 },
               ),
               const SizedBox(height: 16),
+              // ignore: deprecated_member_use
               DropdownButtonFormField<String>(
                 value: _selectedCategory,
                 decoration: const InputDecoration(
