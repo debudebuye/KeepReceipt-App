@@ -41,6 +41,9 @@ analyzer:
     missing_required_param: error
     missing_return: error
     todo: ignore
+    # Ignore deprecated_member_use for Flutter framework deprecations
+    # that don't have stable replacements yet
+    deprecated_member_use: ignore
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
