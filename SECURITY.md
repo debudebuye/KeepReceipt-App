@@ -61,7 +61,7 @@ This means:
 If you discover a security vulnerability:
 
 1. **DO NOT** open a public issue
-2. **DO** email: security@keepreceipt.com
+2. **DO** email: debiansilase@gmail.com
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
